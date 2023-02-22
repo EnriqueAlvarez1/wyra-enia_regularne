@@ -1,1 +1,1 @@
-# wyra-enia_regularne
+# wyrazenia_regularne
